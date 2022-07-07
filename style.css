@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gulzar', serif;
+}
+
+#header {
+    text-align: center;
+    color: white;
+
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.banner {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.buttom {
+    padding: 900px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+
+}
